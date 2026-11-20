@@ -1,5 +1,5 @@
 ID,Category,Part,Specs or model,Quantity,Unit cost,Line total,Supplier or link,Status,Notes
-SBC-01,Computer,Orange Pi 5,8 GB,1,,, ,Planned,Main board
+SBC-01,Computer,Orange Pi 5,8 GB,1,$150,, ,Planned,Main board
 DSP-01,Display,HDMI display,7-inch; exact model TBD,1,,, ,To research,Top screen
 DSP-02,Display,HDMI touchscreen,5-inch; exact model TBD,1,,, ,To research,Bottom screen
 VID-01,Video,USB-C DisplayPort-to-HDMI adapter,Must support DisplayPort Alt Mode,1,,, ,To research,For second screen
